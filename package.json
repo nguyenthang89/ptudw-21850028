@@ -26,5 +26,8 @@
     "sequelize": "^6.28.0",
     "sequelize-cli": "^6.6.0",
     "yarn": "^1.22.19"
+  },
+  "engines": {
+    "node": ">=16"
   }
 }
